@@ -22,7 +22,7 @@ To run this project, install it locally using git clone:
 
 ```
 $ git clone https://github.com/simonjohansson02/NoA-Ignite-code-test.git
-$ cd ../code-test-NoA-Ignite
+$ cd ../NoA-Ignite-code-test
 $ npm install
 $ npm start
 ```
