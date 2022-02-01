@@ -1,0 +1,16 @@
+{
+	"short_name": "Code Test",
+	"name": "A Code Test Done From Simon Johansson",
+	"description": "I got a code test from a company and here is my solution for it and it is a little more than what they asked for",
+	"icons": [
+		{
+			"src": "https://cdn0.iconfinder.com/data/icons/automation-testing-filled-outline/128/Automation_Testing_-_Filled_Outline_-_19-07-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#0d1117",
+	"background_color": "#0d1117"
+}
